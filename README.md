@@ -13,6 +13,6 @@ Batch - B.tech_CSE_B3_CCVT
 - [Experiment 5 : Docker Volume and Data Persistence](Lab5/EXP5.md)
 - [Experiment 6 : Docker Run vs Docker Compose: Multi-Container Application Orchestration](Lab6/EXP6.md)
 
-- ## Assignment 
+## Assignment 
 
 - [Docker Web App Assignment](Docker_Web_App/README.md)
