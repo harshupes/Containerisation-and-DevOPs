@@ -12,6 +12,11 @@ Batch - B.tech_CSE_B3_CCVT
 - [Experiemnt 4 : Docker Essentials](Lab4/EXP4.md)
 - [Experiment 5 : Docker Volume and Data Persistence](Lab5/EXP5.md)
 - [Experiment 6 : Docker Run vs Docker Compose: Multi-Container Application Orchestration](Lab6/EXP6.md)
+- [Experiment 7 : CI/CD using Jenkins, GitHub and Docker Hub](Lab7/EXP7.md)
+- [Experiment 9 : Ansible](Lab9/EXP9.md)
+- [Experiment 10 : Sonar-Qube](Lab10/EXP10.md)
+- [Experiment 11: Container Orchestration with Docker Stack](Lab11/EXP11.md)
+- [Experiment 12 : Kubernetes Draft](Lab12/EXP12.md)
 
 ## Assignment 
 
